@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bannerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1b5e20"/>
+      <stop offset="50%" style="stop-color:#2e7d32"/>
+      <stop offset="100%" style="stop-color:#388e3c"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffd54f;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#ffd54f"/>
+      <stop offset="80%" style="stop-color:#ffd54f"/>
+      <stop offset="100%" style="stop-color:#ffd54f;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bannerBg)"/>
+  <rect x="0" y="40" width="1200" height="1" fill="url(#goldLine)" opacity="0.3"/>
+  <rect x="0" y="259" width="1200" height="1" fill="url(#goldLine)" opacity="0.3"/>
+  <g opacity="0.06">
+    <path d="M0,300 Q100,200 200,280 Q300,180 400,260 Q500,160 600,240 Q700,140 800,220 Q900,120 1000,200 Q1100,100 1200,180 L1200,300 Z" fill="#81c784"/>
+  </g>
+  <text x="600" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="white" font-weight="bold" letter-spacing="3">LA HOJA VERDE</text>
+  <text x="600" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#c8e6c9" letter-spacing="8">TIENDA NATURISTA</text>
+  <line x1="450" y1="180" x2="750" y2="180" stroke="#ffd54f" stroke-width="1" opacity="0.5"/>
+  <text x="600" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#a5d6a7" letter-spacing="4">CREMAS MEDICINALES · ACEITES TERAPÉUTICOS · CUIDADO NATURAL</text>
+  <text x="600" y="250" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#81c784">🌿 Tu salud en manos de la naturaleza  |  +58 0412 1146391</text>
+</svg>

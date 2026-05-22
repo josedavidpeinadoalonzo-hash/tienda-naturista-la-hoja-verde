@@ -1,0 +1,12 @@
+name: la-hoja-verde
+metadata:
+  template: tienda-naturista@1.0.0
+services:
+  frontend:
+    project: frontend
+    language: js
+    host: staticwebapp
+  backend:
+    project: backend
+    language: js
+    host: function

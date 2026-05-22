@@ -1,0 +1,135 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "La Hoja Verde" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+        - generic [ref=e11]: La Hoja Verde
+      - navigation [ref=e12]:
+        - link "Inicio" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Productos" [ref=e14] [cursor=pointer]:
+          - /url: /productos
+        - link "Nosotros" [ref=e15] [cursor=pointer]:
+          - /url: /nosotros
+        - link "Contacto" [ref=e16] [cursor=pointer]:
+          - /url: /contacto
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - heading "Contacto" [level=1] [ref=e20]
+        - paragraph [ref=e21]: ¿Tienes preguntas? Escríbenos o mejor aún, habla directamente con nuestro médico naturista a través del chat.
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - img [ref=e26]
+            - generic [ref=e29]:
+              - paragraph [ref=e30]: Dirección
+              - paragraph [ref=e31]: Calle La Guillermera, Casa N5, Sector La Vega, Ejido, Edo. Mérida, Venezuela
+          - generic [ref=e32]:
+            - img [ref=e34]
+            - generic [ref=e36]:
+              - paragraph [ref=e37]: Teléfono / WhatsApp
+              - paragraph [ref=e38]: +58 0412 1146391
+          - generic [ref=e39]:
+            - img [ref=e41]
+            - generic [ref=e44]:
+              - paragraph [ref=e45]: Email
+              - paragraph [ref=e46]: nexaopsai@gmail.com
+          - generic [ref=e47]:
+            - img [ref=e49]
+            - generic [ref=e52]:
+              - paragraph [ref=e53]: Horario
+              - paragraph [ref=e54]: Lun–Sáb 7am–6pm
+          - generic [ref=e55]:
+            - paragraph [ref=e56]: Síguenos en redes
+            - generic [ref=e57]:
+              - link "Instagram" [ref=e58] [cursor=pointer]:
+                - /url: https://www.instagram.com/naturalvers21?igsh=bDc5MXJmeGx5Nzdt
+                - img [ref=e59]
+              - link "Facebook" [ref=e61] [cursor=pointer]:
+                - /url: https://www.facebook.com/share/1Fj2YYsFQP/
+                - img [ref=e62]
+              - link "TikTok" [ref=e64] [cursor=pointer]:
+                - /url: https://tiktok.com/@naturalver
+                - img [ref=e65]
+              - link "WhatsApp" [ref=e67] [cursor=pointer]:
+                - /url: https://wa.me/584121146391
+                - img [ref=e68]
+          - button "Chatear con el Médico" [ref=e71] [cursor=pointer]:
+            - img [ref=e72]
+            - text: Chatear con el Médico
+        - generic [ref=e75]:
+          - heading "Envíanos un mensaje" [level=2] [ref=e76]
+          - generic [ref=e77]:
+            - generic [ref=e78]:
+              - generic [ref=e79]: Nombre
+              - textbox "Nombre" [ref=e80]:
+                - /placeholder: Tu nombre
+            - generic [ref=e81]:
+              - generic [ref=e82]: Correo electrónico
+              - textbox "Correo electrónico" [ref=e83]:
+                - /placeholder: tu@email.com
+            - generic [ref=e84]:
+              - generic [ref=e85]: Mensaje
+              - textbox "Mensaje" [ref=e86]:
+                - /placeholder: ¿En qué podemos ayudarte?
+            - button "Enviar mensaje" [ref=e87] [cursor=pointer]:
+              - img [ref=e88]
+              - text: Enviar mensaje
+  - contentinfo [ref=e91]:
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - img [ref=e96]
+            - generic [ref=e99]: La Hoja Verde
+          - paragraph [ref=e100]: E-commerce de productos naturales con ventas online y entregas en todo Venezuela. Contamos con un médico naturista con más de 10 años de experiencia para asesorarte. ¡Llevamos la naturaleza a tu hogar!
+          - generic [ref=e101]:
+            - link "WhatsApp" [ref=e102] [cursor=pointer]:
+              - /url: https://wa.me/584121146391
+              - img [ref=e103]
+            - link "Instagram" [ref=e105] [cursor=pointer]:
+              - /url: https://www.instagram.com/naturalvers21?igsh=bDc5MXJmeGx5Nzdt
+              - img [ref=e106]
+            - link "Facebook" [ref=e108] [cursor=pointer]:
+              - /url: https://www.facebook.com/share/1Fj2YYsFQP/
+              - img [ref=e109]
+            - link "TikTok" [ref=e111] [cursor=pointer]:
+              - /url: https://tiktok.com/@naturalver
+              - img [ref=e112]
+        - generic [ref=e114]:
+          - heading "Enlaces" [level=3] [ref=e115]
+          - list [ref=e116]:
+            - listitem [ref=e117]:
+              - link "Inicio" [ref=e118] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e119]:
+              - link "Productos" [ref=e120] [cursor=pointer]:
+                - /url: /productos
+            - listitem [ref=e121]:
+              - link "Nosotros" [ref=e122] [cursor=pointer]:
+                - /url: /nosotros
+            - listitem [ref=e123]:
+              - link "Contacto" [ref=e124] [cursor=pointer]:
+                - /url: /contacto
+        - generic [ref=e125]:
+          - heading "Contacto" [level=3] [ref=e126]
+          - list [ref=e127]:
+            - listitem [ref=e128]:
+              - img [ref=e129]
+              - generic [ref=e132]: Ejido, Edo. Mérida, Venezuela
+            - listitem [ref=e133]:
+              - link "+58 0412 1146391" [ref=e134] [cursor=pointer]:
+                - /url: tel:+584121146391
+                - img [ref=e135]
+                - generic [ref=e137]: +58 0412 1146391
+            - listitem [ref=e138]:
+              - link "nexaopsai@gmail.com" [ref=e139] [cursor=pointer]:
+                - /url: mailto:nexaopsai@gmail.com
+                - img [ref=e140]
+                - generic [ref=e143]: nexaopsai@gmail.com
+      - generic [ref=e144]: © 2026 La Hoja Verde. Todos los derechos reservados.
+  - button "Médico Naturista" [ref=e145] [cursor=pointer]:
+    - img [ref=e146]
+    - generic [ref=e148]: Médico Naturista
