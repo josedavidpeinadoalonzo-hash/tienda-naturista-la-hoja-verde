@@ -149,6 +149,10 @@ tienda-naturista-la-hoja-verde/
 - Ver leads: `GET /api/leads`
 - Estadísticas: `GET /api/leads/stats`
 
+## Repositorio
+- **GitHub:** `https://github.com/josedavidpeinadoalonzo-hash/tienda-naturista-la-hoja-verde`
+- **GitHub Actions:** Comenta `/opencode` o `/oc` en cualquier issue o PR para ejecutar tareas automáticamente
+
 ## Próximos Pasos
 1. ✅ Definir páginas del sitio
 2. ✅ Configurar proyecto frontend (Vite + React + Tailwind)
